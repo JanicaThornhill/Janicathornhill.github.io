@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    font-family: helvetica; 
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 200px;
+
+}
+
+nav ul li  {
+    display: inline-block;
+}
